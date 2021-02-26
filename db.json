@@ -1,0 +1,34 @@
+{
+  "employeeDetail": [
+    {
+      "id": "1",
+      "name": "Andrew",
+      "designation": "Software Engineer"
+    },
+    {
+      "name": "Charles",
+      "id": "2",
+      "designation": "Software Engineer"
+    },
+    {
+      "name": "Abigail",
+      "id": "3",
+      "designation": "Jr. Test Engineer"
+    },
+    {
+      "id": "4",
+      "name": "Shaik",
+      "designation": "Software Engineer"
+    },
+    {
+      "id": "5",
+      "name": "Jason",
+      "designation": "Senior Software Engineer"
+    },
+    {
+      "id": "6",
+      "name": "Nathan",
+      "designation": "Sr. Software Engineer"
+    }
+  ]
+}
